@@ -3,3 +3,6 @@ if a>=0:
      Print('positiv number')
 else:
     Print('negitive number')
+Output:
+Enter value 8
+Positive number
