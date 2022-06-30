@@ -1,0 +1,6 @@
+emp={1:['akash','manager',100000,98345698],2:['kushma','accountdep',50000,8768946],3:['tanu','develpment',100000,76456832]}
+eno=int(input('enter emplo.no:'))
+print('empname:',emp[eno][0])
+print('empdesig:',emp[eno][1])
+print('empsal:',emp[eno][2])
+print('pno:',emp[eno][3])
